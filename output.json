@@ -1,0 +1,66 @@
+{
+  "title": "\n\t\t\tZastępstwa\n\t\t",
+  "header": "\n\t\t\tZastępstwa\n\t\t",
+  "dateRange": "06.09.2024 (pt.) - 06.09.2024 (pt.)",
+  "days": [
+    {
+      "day": "06.09.2024 (pt.)",
+      "lessons": [
+        {
+          "lesson": "1, 08:00-08:45",
+          "teacher": "Kobosz-Purpura Edyta",
+          "group": "2LG",
+          "subject": "Wiedza o społeczeństwie",
+          "room": "",
+          "substitute": "Uczniowie przychodzą później",
+          "notes": ""
+        },
+        {
+          "lesson": "2, 08:55-09:40",
+          "teacher": "Kobosz-Purpura Edyta",
+          "group": "1LA",
+          "subject": "Historia",
+          "room": "104B",
+          "substitute": "Magiera Sylwia",
+          "notes": ""
+        },
+        {
+          "lesson": "3, 09:50-10:35",
+          "teacher": "Kobosz-Purpura Edyta",
+          "group": "3LB",
+          "subject": "Elementy prawa",
+          "room": "",
+          "substitute": "Jaskólska Wioletta",
+          "notes": ""
+        },
+        {
+          "lesson": "4, 10:45-11:30",
+          "teacher": "Kobosz-Purpura Edyta",
+          "group": "3LB",
+          "subject": "Historia",
+          "room": "",
+          "substitute": "Klemens Nina",
+          "notes": ""
+        },
+        {
+          "lesson": "6, 12:55-13:40",
+          "teacher": "Kobosz-Purpura Edyta",
+          "group": "6s",
+          "subject": "Historia",
+          "room": "6B",
+          "substitute": "Kostrzewa Agnieszka",
+          "notes": ""
+        },
+        {
+          "lesson": "7, 13:50-14:35",
+          "teacher": "Kobosz-Purpura Edyta",
+          "group": "2LH",
+          "subject": "Historia i teraźniejszość",
+          "room": "6B",
+          "substitute": "Uczniowie zwolnieni do domu",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}
